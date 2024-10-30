@@ -1,0 +1,11 @@
+$base-color: #0D83DD;
+$highlight-color: darken( desaturate( #86C620, 10% ), 5% );
+$notification-color: #648C0F;
+$action-color: lighten( $base-color, 40% );
+
+$menu-collapse-text: #F0F0F0 !important;
+$menu-collapse-focus-text: #F0F0F0;
+$menu-collapse-icon: #F0F0F0;
+$menu-collapse-focus-icon: #F0F0F0;
+
+@import "../admin";

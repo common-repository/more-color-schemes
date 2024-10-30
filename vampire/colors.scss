@@ -1,0 +1,6 @@
+$base-color: #2D303D;
+$highlight-color: #4E5164;
+$notification-color: #FC6163;
+$action-color: lighten( $base-color, 40% );
+
+@import "../admin";
